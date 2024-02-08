@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["Intan", "Tann", "Intunnn", "Intannnn"],
+  nicknames: ["Ryujin", "Riyuu", "JinJin", "Olann"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",
